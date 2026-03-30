@@ -20,10 +20,6 @@ Ich habe diese Login-Seite gebaut, um meine Fähigkeiten in der Webentwicklung z
 - CSS
 - JavaScript
 
-## Zweck
-
-Dieses Projekt wurde erstellt, um den Aufbau und das Design einer Login-Seite besser zu verstehen und meine Frontend-Skills weiterzuentwickeln.
-
 ## Hinweis
 
 Diese Seite dient nur zu Übungs- und Lernzwecken.  
