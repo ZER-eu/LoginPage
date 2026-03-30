@@ -1,8 +1,6 @@
 # LoginPage
 
 
-Dieses Projekt ist eine einfache Login-Seite, die ich mit HTML, CSS und JavaScript erstellt habe.
-
 ## Über das Projekt
 
 Ich habe diese Login-Seite gebaut, um meine Fähigkeiten in der Webentwicklung zu üben und mein Verständnis für Benutzeroberflächen zu verbessern.
